@@ -1,5 +1,5 @@
 #Day 1 in this course learned about beginner Python knowledge.
-#In the end of the chapter, creator want to make Band Generator. Below the code that I made.
+#In the end of the chapter, creator want to make Band Name Generator. Below the code that I made.
 
 print("Welcome to the Band Name Generator.")
 street = input ("What is the name of the city you grew up in?\n")
