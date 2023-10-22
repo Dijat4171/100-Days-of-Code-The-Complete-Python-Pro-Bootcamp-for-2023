@@ -1,0 +1,10 @@
+#Day 2 in this course learn about Math operations.
+#In the end of the course, I made tip calculator. Below the code that I made.
+
+print("Welcome to the tip calculator.")
+bill = float(input("What was the total bill? $"))
+percen = float(input("What percentage tip wpuld you like to give? 10, 12, or 15? "))
+split = input("How many people to split the bill? ")
+money = round((bill+percen*bill/100)/int(split), 2)
+money_new = format(money,'.2f')
+pay = print(f"Each person should pay: {money_new}")
