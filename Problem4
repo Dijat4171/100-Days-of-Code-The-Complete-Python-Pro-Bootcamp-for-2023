@@ -1,3 +1,6 @@
+#Day 4 in this course learned about randomisation and list.
+#In the end of the course, I made simple games called rock papper scisors. Below code that I made.
+
 rock = '''
     _______
 ---'   ____)
